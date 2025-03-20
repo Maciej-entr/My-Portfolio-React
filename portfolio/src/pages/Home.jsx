@@ -1,4 +1,4 @@
-import { Blog, Contact, Hero, Portfolio, Resume, Service, Skill, Testimonial } from "../utils/Router";
+import {  Hero, Portfolio, Resume, Service, Skill, } from "../utils/Router";
 
 export const Home = () => {
   return (
