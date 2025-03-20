@@ -17,9 +17,11 @@ export const Portfolio = () => {
             <div className="grid2">
               {projects.map((project) => (
                 <div className="portfolio-item branding" key={project.id}>
+                  <NavLink to="/details">
                   <div className="image-box">
                     <img src={project.cover} alt="" />
                   </div>
+                  </NavLink>
                   <div className="content-box">
                     <NavLink to="/details">
                       <h3 className="portfolio-title">{project.title}</h3>

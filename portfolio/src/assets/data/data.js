@@ -269,7 +269,7 @@ export const linklist = [
       },
       {
         id: 3,
-        title: "Portfolio Beata O.",
+        title: "Portfolio Beata ",
         category: "Web Design",
         client: "Beata O. - Level Designer",
         startDate: "February 2025",
