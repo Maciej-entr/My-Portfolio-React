@@ -1,8 +1,8 @@
-import { FaXTwitter } from "react-icons/fa6";
-import { PiDribbbleLogoFill } from "react-icons/pi";
+
 import { FaLinkedinIn } from "react-icons/fa";
 import { IoLogoGithub } from "react-icons/io";
 import { hero } from "../../assets/data/data";
+import Mypdf from "../../assets/resume.pdf"
 
 
 export const Hero = () => {
@@ -45,7 +45,7 @@ export const Hero = () => {
 
                 <p className="lead">I break down complex user experinece problems to create integritiy focussed solutions that satisfy everyone.</p>
                 <div className="button-box flexG">
-                  <a href="#" className="btn tj-btn-secondary">
+                  <a href={Mypdf} target="_blank" className="btn tj-btn-secondary">
                     Download CV <i className="flaticon-download"></i>
                   </a>
                   <ul className="ul-reset social-icons">
