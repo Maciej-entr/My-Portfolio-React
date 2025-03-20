@@ -1,4 +1,3 @@
-import { FaArrowRight } from "react-icons/fa6";
 import { projectsDetails } from "../../assets/data/data";
 
 export const PortfolioDetails = () => {
