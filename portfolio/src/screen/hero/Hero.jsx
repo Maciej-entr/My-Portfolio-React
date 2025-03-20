@@ -43,7 +43,7 @@ export const Hero = () => {
                   <img src="assets/img/hero/me.jpg" alt="" />
                 </div>
 
-                <p className="lead">I break down complex user experinece problems to create integritiy focussed solutions that satisfy everyone.</p>
+                <p className="lead">I break down complex user experience problems to create integritiy focussed solutions that satisfy everyone.</p>
                 <div className="button-box flexG">
                   <a href={Mypdf} target="_blank" className="btn tj-btn-secondary">
                     Download CV <i className="flaticon-download"></i>
