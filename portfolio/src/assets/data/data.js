@@ -300,4 +300,36 @@ export const linklist = [
           link: "https://67dc17a5433ec6175ab0e10a--aquamarine-kheer-f13578.netlify.app/",
           images: ["../images/portfolio/p4.png", "../images/portfolio/p4-1.png", "../images/portfolio/p4-2.png", "../images/portfolio/p4-4.png"],
       },
+      {
+        id: 5,
+        title: "Zielone Sesje",
+        category: "Web Design",
+        client: "Holiforma",
+        startDate: "December 2024",
+        designer: "Me",
+        description: "Zielone Sesje by Holiforma offers immersive, nature-inspired experiences focused on relaxation and mindfulness. Combining design and greenery, it provides calming sessions that blend wellness with aesthetics for rejuvenation.",
+        description2:
+          "Zielone Sesje by Holiforma is an innovative and immersive experience designed to promote relaxation, mindfulness, and a connection with nature. The sessions combine lush greenery, calming aesthetics, and thoughtful design to create a serene environment that encourages mental well-being and rejuvenation. Participants are invited into carefully curated spaces filled with natural elements, soft lighting, and ambient sounds, designed to evoke a sense of tranquility and escape from daily stress. Holiforma's unique approach merges wellness practices with modern design, offering guided mindfulness sessions that emphasize breathing techniques, meditation, and grounding exercises, all set within these beautiful, nature-inspired spaces. Ideal for individuals seeking a holistic and aesthetic-driven way to unwind and refresh.",
+        story: "A simple Project for a client",
+          approach:
+          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+          link: "https://67dc17a5433ec6175ab0e10a--aquamarine-kheer-f13578.netlify.app/",
+          images: ["../images/portfolio/p4.png", "../images/portfolio/p4-1.png", "../images/portfolio/p4-2.png", "../images/portfolio/p4-4.png"],
+      },
+      {
+        id: 6,
+        title: "Zielone Sesje",
+        category: "Web Design",
+        client: "Holiforma",
+        startDate: "December 2024",
+        designer: "Me",
+        description: "Zielone Sesje by Holiforma offers immersive, nature-inspired experiences focused on relaxation and mindfulness. Combining design and greenery, it provides calming sessions that blend wellness with aesthetics for rejuvenation.",
+        description2:
+          "Zielone Sesje by Holiforma is an innovative and immersive experience designed to promote relaxation, mindfulness, and a connection with nature. The sessions combine lush greenery, calming aesthetics, and thoughtful design to create a serene environment that encourages mental well-being and rejuvenation. Participants are invited into carefully curated spaces filled with natural elements, soft lighting, and ambient sounds, designed to evoke a sense of tranquility and escape from daily stress. Holiforma's unique approach merges wellness practices with modern design, offering guided mindfulness sessions that emphasize breathing techniques, meditation, and grounding exercises, all set within these beautiful, nature-inspired spaces. Ideal for individuals seeking a holistic and aesthetic-driven way to unwind and refresh.",
+        story: "A simple Project for a client",
+          approach:
+          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+          link: "https://67dc17a5433ec6175ab0e10a--aquamarine-kheer-f13578.netlify.app/",
+          images: ["../images/portfolio/p4.png", "../images/portfolio/p4-1.png", "../images/portfolio/p4-2.png", "../images/portfolio/p4-4.png"],
+      },
   ];
