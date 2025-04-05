@@ -35,7 +35,7 @@ export const Hero = () => {
               <div className="hero-content-box">
                 <span className="hero-sub-title">I am Maciej</span>
                 <h1 className="hero-title">
-                  Front - End Developer <br />
+                  Full - Stack Developer <br />
                   
                 </h1>
 

@@ -12,18 +12,17 @@ export const Portfolio = () => {
             <p>We put your ideas and thus your wishes in the form of a unique web project that inspires you and you customers.</p>
           </div>
 
-          
           <div className="portfolio-box">
             <div className="grid2">
               {projects.map((project) => (
                 <div className="portfolio-item branding" key={project.id}>
-                  <NavLink to="/details">
-                  <div className="image-box">
-                    <img src={project.cover} alt="" />
-                  </div>
+                  <NavLink to={`/details/${project.id}`}>
+                    <div className="image-box">
+                      <img src={project.cover} alt="" />
+                    </div>
                   </NavLink>
                   <div className="content-box">
-                    <NavLink to="/details">
+                    <NavLink to={`/details/${project.id}`}>
                       <h3 className="portfolio-title">{project.title}</h3>
                     </NavLink>
                     <p>{project.desc}</p>

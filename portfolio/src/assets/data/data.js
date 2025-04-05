@@ -30,23 +30,23 @@ export const linklist = [
   export const service = [
     {
       id: 1,
+      title: "IBM Full - Stack Software Developer Specialization",
+      text: "I successfully completed the IBM Full-Stack Developer Specialization, gaining hands-on experience in front-end, back-end, databases, APIs, and cloud.",
+    },
+    {
+      id: 2,
       title: "Meta Front-End Developer Specialization",
       text: "Certificate Identification Number: 5935VG8MBD0M",
     },
     {
-      id: 2,
+      id: 3,
       title: "CAE - Certificate in Advanced English",
       text: "Certificate Verification Number: C5039209",
     },
     {
-      id: 3,
-      title: "SEO WITH SQUARESPACE",
-      text: "As a participant in the SEO with Squarespace course, I developed skills to optimize website content, improve search rankings, and effectively use Squarespace's SEO tools for better visibility.",
-    },
-    {
       id: 4,
-      title: "WORDPRESS WEBSITE BUILDING",
-      text: "This course taught me how to build and customize websites using WordPress, covering themes, plugins, design, and essential tools for creating professional websites.",
+      title: "Agentic AI and AI Agents",
+      text: "I explored Agentic AI and AI Agents, understanding how autonomous systems perceive, decide, and act intelligently in dynamic environments.",
     },
   ];
   
@@ -121,6 +121,13 @@ export const linklist = [
     { id: 4, name: "WordPess", percentage: 99, icon: "../images/skill/s4.svg" },
     { id: 5, name: "React", percentage: 89, icon: "../images/skill/s5.svg" },
     { id: 6, name: "JavaScript", percentage: 93, icon: "../images/skill/s6.svg" },
+    { id: 7, name: "Python", percentage: 96, icon: "../images/skill/s7.svg" },
+    { id: 8, name: "Node.js", percentage: 100, icon: "../images/skill/s8.svg" },
+    { id: 9, name: "Express", percentage: 84, icon: "../images/skill/s9.svg" },
+    { id: 10, name: "Django", percentage: 72, icon: "../images/skill/s10.svg" },
+    { id: 11, name: "Docker", percentage: 91, icon: "../images/skill/s11.svg" },
+    { id: 12, name: "Kubernetes", percentage: 64, icon: "../images/skill/s12.svg" },
+
   ];
   export const testimonialData = [
     {
@@ -240,6 +247,7 @@ export const linklist = [
       client: "KN Solvro",
       startDate: "March 2025",
       designer: "Me",
+      cover: "../images/portfolio/p-gallery-3.jpg",
       description: "A sleek and vibrant cocktail webpage showcasing a variety of creative drink recipes, with stunning visuals, detailed ingredients, preparation steps, and user-friendly navigation.",
       description2:
           "A sleek and vibrant cocktail webpage designed for cocktail enthusiasts, showcasing an extensive collection of creative drink recipes. Each recipe is accompanied by stunning, high-quality visuals that highlight the vibrant colors and presentation of the drinks. The page offers detailed ingredient lists, precise preparation instructions, and helpful tips for perfecting each cocktail. With user-friendly navigation, visitors can easily search by drink types, or themes, making it a go-to destination for both professional bartenders and casual home mixologists. Interactive features, such as user reviews and rating systems, provide a dynamic and engaging experience for cocktail lovers of all levels.",
@@ -257,6 +265,7 @@ export const linklist = [
         client: "Ztrans",
         startDate: "March 2025",
         designer: "Me",
+        cover: "../images/portfolio/p-gallery-3.jpg",
         description: "A modern email filter webpage offering customizable spam protection, smart sorting, and efficient inbox management, with intuitive controls for organizing and prioritizing emails seamlessly.",
         description2:
           "A modern and efficient email filter webpage, designed to enhance inbox management by offering advanced spam protection and customizable sorting features. The webpage provides a simple, intuitive interface for users to set personalized email filtering rules, ensuring that only important messages reach their inbox while unwanted spam and irrelevant emails are effectively sorted or blocked. The system includes intelligent algorithms that learn user preferences over time, optimizing the organization of emails into categories like work, personal, and promotional. This webpage empowers users to streamline email management, saving time and improving productivity through hassle-free automation and seamless control over their inbox.",
@@ -274,6 +283,7 @@ export const linklist = [
         client: "Beata O. - Level Designer",
         startDate: "February 2025",
         designer: "Beata Orlińska",
+        cover: "../images/portfolio/p-gallery-3.jpg",
         description: "Beata O. Portfolio showcases her expertise as a Level Designer, featuring immersive game environments, intricate world-building, and creative design solutions. Includes project highlights, design philosophy, and visuals.",
         description2:
           "Beata O.'s portfolio is a comprehensive showcase of her work as a skilled and creative Level Designer in the gaming industry. The portfolio features a diverse range of projects that highlight her talent for crafting immersive and engaging game environments, emphasizing both aesthetic design and functional gameplay elements. Each project page provides detailed breakdowns of her design process, from initial concepts and layout sketches to the final implementation of 3D environments. Her work demonstrates a keen understanding of spatial design, narrative integration, and player experience. With a strong focus on world-building and interactive storytelling, Beata’s portfolio reflects her dedication to creating memorable and visually stunning game worlds.",
@@ -291,6 +301,7 @@ export const linklist = [
         client: "Holiforma",
         startDate: "December 2024",
         designer: "Me",
+        cover: "../images/portfolio/p-gallery-3.jpg",
         description: "Zielone Sesje by Holiforma offers immersive, nature-inspired experiences focused on relaxation and mindfulness. Combining design and greenery, it provides calming sessions that blend wellness with aesthetics for rejuvenation.",
         description2:
           "Zielone Sesje by Holiforma is an innovative and immersive experience designed to promote relaxation, mindfulness, and a connection with nature. The sessions combine lush greenery, calming aesthetics, and thoughtful design to create a serene environment that encourages mental well-being and rejuvenation. Participants are invited into carefully curated spaces filled with natural elements, soft lighting, and ambient sounds, designed to evoke a sense of tranquility and escape from daily stress. Holiforma's unique approach merges wellness practices with modern design, offering guided mindfulness sessions that emphasize breathing techniques, meditation, and grounding exercises, all set within these beautiful, nature-inspired spaces. Ideal for individuals seeking a holistic and aesthetic-driven way to unwind and refresh.",
